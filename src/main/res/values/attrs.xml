@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RingProgress">
+        <attr name="ring_progress" format="integer"/>
+        <attr name="ring_max" format="integer"/>
+        <attr name="finished_color" format="color"/>
+        <attr name="unfinished_color" format="color"/>
+        <attr name="finished_stroke_width" format="dimension"/>
+        <attr name="unfinished_stroke_width" format="dimension"/>
+        <attr name="inner_text" format="string"/>
+        <attr name="inner_text_size" format="dimension"/>
+        <attr name="inner_text_color" format="color"/>
+        <attr name="starting_degree" format="integer"/>
+        <attr name="background_color" format="color"/>
+    </declare-styleable>
+</resources>
