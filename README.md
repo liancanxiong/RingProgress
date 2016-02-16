@@ -40,4 +40,4 @@
 		/>
 
 
-![image](https://github.com/liancanxiong/RingProgress/blob/master/screenshot.png）
+![image](https://github.com/liancanxiong/RingProgress/blob/master/screenshot.png)
